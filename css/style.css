@@ -78,3 +78,23 @@ card:hover {
 .download:hover {
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }
+
+red {
+  color:#e23a2e;
+}
+
+green {
+    color:#279847;
+}
+
+yellow {
+    color:#fbbf12;
+}
+
+blue {
+    color:#1a73e8;
+}
+
+a{
+    color:#1a73e8;
+}
