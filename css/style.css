@@ -15,12 +15,12 @@ body {
 
 @font-face {
     font-family: 'productSansHead';
-    src: url(/css/Product\ Sans\ Regular.ttf);
+    src: url(https://frog314.github.io/welcome/css/Product\ Sans\ Regular.ttf);
 }
 
 @font-face {
     font-family: 'productSansBody';
-    src: url(/css/Product\ Sans\ Italic.ttf);
+    src: url(https://frog314.github.io/welcome/css/Product\ Sans\ Italic.ttf);
 }
 
 h {
